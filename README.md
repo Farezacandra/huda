@@ -1,2 +1,2 @@
-# huda
+fareza candra
 tugas algritma
